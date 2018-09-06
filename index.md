@@ -1,17 +1,16 @@
-## Welcome to GitHub Pages
+# Gunnar's First CS193 Lab
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**======Gunnar's Top 5 CS 193 Things=======**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Noah - he seems cool and stuff
+- the number 193 - its like 100 + 93 and i think that's pretty cool
+- the letter c - its pretty ccccccccccccccccccccccccccccccccccccccccccccccccccccccoool
+- Tanuj - he seems dope and he is quite sharply dressed
+- How late Tanuj was to the first lab
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
-# Gunnar's First CS193 Lab
+
 ## Header 2
 ### Header 3
 
@@ -20,13 +19,7 @@ Syntax highlighted code block
 - List
 
 
-===Gunnar's Top 5 CS 193 Things===
 
-1. Noah
-2. The number 193 - its like 100 + 93 and i think thats pretty cool
-3. The Letter C - its pretty cccccccccccccccccccool
-4. GitHub - its pretty dope ig
-5. How late Tanuj was to the first lab
 
 **Bold** and _Italic_ and `Code` text
 
